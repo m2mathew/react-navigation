@@ -1,5 +1,9 @@
 # React Navigation
 
+Assignment from The Iron Yard-Austin
+
+Week 7 - day 26
+
 ## Description
 Built out a navigation bar that responds to events.
 
@@ -24,7 +28,6 @@ After completing this assignment, you be able to effectively use
 * Backbone.Events
 * Parse.User.current()
 * .trigger(...)
-
 
 
 ## Details
@@ -53,22 +56,17 @@ In this assignment you will implement an event driven navigation component. The 
 Reference the screen shots below to understand how the navigation component should behave:
 
 #### Logged out
-![logged out](images/loggedout.jpg)
+![logged out](/images/loggedout.jpg)
 *Notice how the logout and dashboard pages are hidden*
 
 #### Logged in
-![logged in](images/loggedin.jpg)
+![logged in](/images/loggedin.jpg)
 *Notice how the login and register pages are hidden*
 
 #### Register page
-![register](images/register.jpg)
+![register](/images/register.jpg)
 *Notice how the register page is active*
 
 #### Dashboard page
-![dashboard](images/dashboard.jpg)
+![dashboard](/images/dashboard.jpg)
 *Notice how the dashboard page is active*
-
-## Notes
-
-## Additional Resources
-
